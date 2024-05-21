@@ -1,5 +1,5 @@
 
-#Static Website HosTing on AWS
+#Static Website Hosting on AWS
 
 
 ![alt text](pic.PNG)
