@@ -16,7 +16,7 @@ this is project demonstrates how to a static HTML webpage on AWS.The architechct
 
 3.Create a Bucket: Click on the "Create bucket" button. Choose a unique name for your bucket, keeping in mind that S3 bucket names must be globally unique. Select the region where you want your bucket to be located, and leave other settings as default. Click "Create".
 
-
+![alt text](01.PNG)
 
 4.Enable Static Website Hosting: Once your bucket is created, select it from the list and navigate to the "Properties" tab. Scroll down to find the "Static website hosting" card, and click on it. Choose the option to enable static website hosting. Enter the index document (e.g., index.html) and the error document if you have one (e.g., error.html). Click "Save".
 
