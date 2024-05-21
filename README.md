@@ -1,9 +1,12 @@
+
+#Static Website HosTing on AWS
+
+
 ![alt text](pic.PNG)
 
 
----
 
-#Static Website Hosing on AWS
+
 
 ##Project Overview
 this is project demonstrates how to a static HTML webpage on AWS.The architechcture ensures high availity,fault tolerance and scalability by leveraging various AWS service.
